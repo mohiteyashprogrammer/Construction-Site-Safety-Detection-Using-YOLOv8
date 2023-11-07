@@ -1,0 +1,6 @@
+streamlit
+ultralytics
+numpy
+opencv-python
+# opencv-python-headless==4.7.0.72
+Pillow
